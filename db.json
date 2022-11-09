@@ -1,0 +1,74 @@
+{
+    "Estreias": [
+        {
+            "id":1,
+            "nome": "Black Panther: Wakanda para Sempre",
+            "descricao":"Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa.",
+            "preco":24.00,
+            "categoria_id": 1
+        },
+        {
+            "id":2,
+            "nome": "Avatar2: O caminho da Agua",
+            "descricao":"Quando uma antiga ameaça ressurge, Jake resolve travar uma difícil guerra contra sua própria espécie.",
+            "preco":24.00 ,
+            "categoria_id":2
+        },
+        {
+            "id":3,
+            "nome": "E.T. – O Extraterreste: Aniversário de 40 anos",
+            "descricao":"Um dos maiores clássicos da história do cinema está completando 40 anos sem perder a magia.",
+            "preco":24.00,
+            "categoria_id":3
+        }
+
+        ],
+        
+        "Filmes em Cartaz":[
+        {
+            "id":1,
+            "nome":"Adao Negro",
+            "descricao":"O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra.",
+            "preco":20.00,
+            "categoria_id":1
+        },
+        {
+            "id":2,
+            "nome":"One Piece Film - Red",
+            "descricao": "A voz que o mundo inteiro estava esperando está prestes a soar.",
+            "preco":20.00,
+            "categoria_id":2
+        },
+        {
+            "id":3,
+            "nome": "Bem-Vinda a Quixeramobim",
+            "descricao":"Uma influencer tem seus bens bloqueados após seu pai ser investigado por corrupção.",
+            "preco":20.00,
+            "categoria_id":3
+        }   
+    ],
+        "Promocao":[
+            {
+                "id":1,
+                "nome":"Pipoca M",
+                "descricao":"Feita na manteiga.",
+                "preco":8.00,
+                "categoria_id":1
+            },  
+            {
+                "id":2,
+                "nome":"Combo",
+                "descricao":"Pipoca M + Refrigerante de 300ml.",
+                "preco":14.00,
+                "categoria_id":2
+            },  
+            {
+                "id":3,
+                "nome":"Combo Plus ",
+                "descricao":"Pipoca G + Refrigerante de 500ml + Snickers 45g",
+                "preco":25.00,
+                "categoria_id":3
+            }
+        ]
+ 
+}
